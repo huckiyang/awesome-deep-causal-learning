@@ -1,7 +1,9 @@
 # awesome-deep-causal-learning
- A curated list of awesome deep causal learning methods.
- 
- Welcome to commit and pull request.
+A curated list of awesome deep causal learning methods.
+
+Learning to inference and disentangle is the next big challenge of Deep Learning.
+
+Welcome to commit and pull request.
 
 ## NeurIPS
 
