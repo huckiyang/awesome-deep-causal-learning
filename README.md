@@ -9,7 +9,7 @@ Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision
 
 Learning to inference and disentangle is the next big challenge of Deep Learning.
 
-Welcome to commit and pull request.
+Welcome to commit and pull request. I will update some guideline on causal software you could find out [here](https://github.com/huckiyang/awesome-deep-causal-learning/blob/master/causal_learning_software.md).
 
 ## Causal Inference 
 
