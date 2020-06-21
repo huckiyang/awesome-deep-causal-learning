@@ -11,7 +11,7 @@ Learning to inference and disentangle is the next big challenge of Deep Learning
 
 Welcome to commit and pull request.
 
-## Causal Inference (selected works from NeurIPS and ICML)
+## Causal Inference 
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
