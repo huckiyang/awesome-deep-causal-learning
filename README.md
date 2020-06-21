@@ -15,8 +15,7 @@ Welcome to commit and pull request.
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-|[A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms
-](https://arxiv.org/abs/1901.10912)|Yoshua Bengio|[code](https://github.com/authors-1901-10912/A-Meta-Transfer-Objective-For-Learning-To-Disentangle-Causal-Mechanisms)|ICLR 2020|
+|[A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/abs/1901.10912)|Yoshua Bengio|[code](https://github.com/authors-1901-10912/A-Meta-Transfer-Objective-For-Learning-To-Disentangle-Causal-Mechanisms)|ICLR 2020|
 | [Granger-causal attentive mixtures of experts: Learning important features with neural networks](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4412/4290)|Patrick Schwab|-|AAAI 2019|
 
 | [Causal bandits: Learning good interventions via causal inference](http://papers.nips.cc/paper/6195-causal-bandits-learning-good-interventions-via-causal-inference) |Finnian Lattimore | -|NeurIPS 2016|
