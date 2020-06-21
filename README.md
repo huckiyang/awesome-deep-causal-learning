@@ -34,3 +34,5 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 
 ### Contact
 C.-H. Huck Yang, Georgia Tech
+
+huckiyang \At \Gatech
