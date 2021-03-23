@@ -27,7 +27,9 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 ## Vision
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-|[When Causal Intervention Meets Adversarial Examples and Image Masking for Deep Neural Networks](https://arxiv.org/abs/1902.03380)|CHH Yang and YC Liu, et al|[code](https://github.com/jjaacckkyy63/Causal-Intervention-AE-wAdvImg)|ICIP 2019|
+|[Two Causal Principles for Improving Visual Dialog](https://arxiv.org/abs/1911.10496)| Qi et al. |[code](https://github.com/simpleshinobu/visdial-principles)| CVPR 2020|
+|[Unbiased Scene Graph Generation from Biased Training](https://arxiv.org/abs/2002.11949)|Tang et al.|[code](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)|CVPR 2020|
+|[When Causal Intervention Meets Adversarial Examples and Image Masking for Deep Neural Networks](https://arxiv.org/abs/1902.03380)|CHH Yang, et al|[code](https://github.com/jjaacckkyy63/Causal-Intervention-AE-wAdvImg)|ICIP 2019|
 | [Discovering causal signals in images](http://openaccess.thecvf.com/content_cvpr_2017/html/Lopez-Paz_Discovering_Causal_Signals_CVPR_2017_paper.html)|Lopez-Paz et al.|code withdrawn from author|CVPR 2017|
 | [Causal graph-based video segmentation](https://ieeexplore.ieee.org/abstract/document/6738875)|Couprie,et al.|-|ICIP 2013|
 
