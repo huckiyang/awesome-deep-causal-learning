@@ -29,6 +29,7 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 ## Vision
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+|[Interventional Few-Shot Learning](https://proceedings.neurips.cc/paper/2020/file/1cc8a8ea51cd0adddf5dab504a285915-Paper.pdf)|Yue et al.|[code](https://github.com/yue-zhongqi/ifsl)|NeurIPS 2020|
 |[Counterfactual Vision and Language Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Abbasnejad_Counterfactual_Vision_and_Language_Learning_CVPR_2020_paper.pdf)|Abbasnejad et al.|-|CVPR 2020|
 |[Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://arxiv.org/abs/1912.07538)|Agarwal et al.|[code](https://github.com/AgarwalVedika/CausalVQA)|CVPR 2020|
 |[Two Causal Principles for Improving Visual Dialog](https://arxiv.org/abs/1911.10496)| Qi et al. |[code](https://github.com/simpleshinobu/visdial-principles)|CVPR 2020|
