@@ -1,4 +1,4 @@
-# awesome-deep-causal-learning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-deep-causal-learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 This collection is initiated in 2018.
@@ -15,6 +15,8 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+|[Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://proceedings.neurips.cc//paper/2020/file/1091660f3dff84fd648efe31391c5524-Paper.pdf)|Tang et al.|[code](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch)|NeurIPS 2020|
+|[Causal Intervention for Weakly-Supervised Semantic Segmentation](https://proceedings.neurips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf)|Zhang et al.|[code](https://github.com/ZHANGDONG-NJUST/CONTA)|NeurIPS 2020|
 |[A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/abs/1901.10912)|Yoshua Bengio et al.|[code](https://github.com/authors-1901-10912/A-Meta-Transfer-Objective-For-Learning-To-Disentangle-Causal-Mechanisms)|ICLR 2020|
 |[Causal Induction from Visual Observations for Goal Directed Tasks](https://arxiv.org/abs/1910.01751)|Suraj Nair, et al.|-|arxiv 2019|
 | [Granger-causal attentive mixtures of experts: Learning important features with neural networks](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4412/4290)|Patrick Schwab, et al.|-|AAAI 2019|
