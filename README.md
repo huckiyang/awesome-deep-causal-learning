@@ -27,7 +27,9 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 ## Vision
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-|[Two Causal Principles for Improving Visual Dialog](https://arxiv.org/abs/1911.10496)| Qi et al. |[code](https://github.com/simpleshinobu/visdial-principles)| CVPR 2020|
+|[Counterfactual Vision and Language Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Abbasnejad_Counterfactual_Vision_and_Language_Learning_CVPR_2020_paper.pdf)|-|CVPR 2020|
+|[Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://arxiv.org/abs/1912.07538)|Agarwal et al.|[code](https://github.com/AgarwalVedika/CausalVQA)|CVPR 2020|
+|[Two Causal Principles for Improving Visual Dialog](https://arxiv.org/abs/1911.10496)| Qi et al. |[code](https://github.com/simpleshinobu/visdial-principles)|CVPR 2020|
 |[Unbiased Scene Graph Generation from Biased Training](https://arxiv.org/abs/2002.11949)|Tang et al.|[code](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)|CVPR 2020|
 |[When Causal Intervention Meets Adversarial Examples and Image Masking for Deep Neural Networks](https://arxiv.org/abs/1902.03380)|CHH Yang, et al|[code](https://github.com/jjaacckkyy63/Causal-Intervention-AE-wAdvImg)|ICIP 2019|
 | [Discovering causal signals in images](http://openaccess.thecvf.com/content_cvpr_2017/html/Lopez-Paz_Discovering_Causal_Signals_CVPR_2017_paper.html)|Lopez-Paz et al.|code withdrawn from author|CVPR 2017|
