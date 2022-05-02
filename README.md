@@ -22,8 +22,28 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 | [Granger-causal attentive mixtures of experts: Learning important features with neural networks](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4412/4290)|Patrick Schwab, et al.|-|AAAI 2019|
 | [Causal bandits: Learning good interventions via causal inference](http://papers.nips.cc/paper/6195-causal-bandits-learning-good-interventions-via-causal-inference) |Finnian Lattimore et al.| -|NeurIPS, 2016|
 |[Learning granger causality for hawkes processes](http://proceedings.mlr.press/v48/xuc16.pdf)| Xu ,et al.|- |ICML 2016|
-|[Towards a learning theory of cause-effect inference](http://proceedings.mlr.press/v37/lopez-paz15.pdf)|Lopez Paz, et al.|-|ICML 2015|
 | [One-shot learning by inverting a compositional causal process](http://papers.nips.cc/paper/5128-one-shot-learning-by-inverting-a-compositional-causal-process)| Brenden M. Lake, et al. |  - |  NeurIPS 2013 |
+
+## Causal Reinforcement Learning
+
+| Title | Authors | Code | Year |
+| ----- | ------- | -------- | ---- |
+|[Training a Resilient Q-network against Observational Interference
+](https://arxiv.org/pdf/2102.09677.pdf)|Yang et al.|[code](https://github.com/huckiyang/Obs-Causal-Q-Network)|AAAI 2022|
+|[Off-policy
+evaluation in infinite-horizon reinforcement learning with latent
+confounders](https://arxiv.org/pdf/2007.13893.pdf)|Andrew Bennett et al.|-|AISTATS 2021|
+
+## Causal Effect Estimation
+
+| Title | Authors | Code | Year |
+| ----- | ------- | -------- | ---- |
+|[Estimating identifiable
+causal effects through double machine learning
+](https://ojs.aaai.org/index.php/AAAI/article/view/17438/17245)|Y Jung et al.|-|AAAI 2021|
+|[Towards a learning theory of cause-effect inference](http://proceedings.mlr.press/v37/lopez-paz15.pdf)|Lopez Paz, et al.|-|ICML 2015|
+
+
 
 
 ## Vision
@@ -41,5 +61,7 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 
 ### Contact
 [C.-H. Huck Yang](https://huckiyang.github.io/), Georgia Tech
+
+2022 May updated. 
 
 2021 updated. 
