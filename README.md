@@ -28,18 +28,15 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-|[Training a Resilient Q-network against Observational Interference
-](https://arxiv.org/pdf/2102.09677.pdf)|Yang et al.|[code](https://github.com/huckiyang/Obs-Causal-Q-Network)|AAAI 2022|
-|[Off-policy
-evaluation in infinite-horizon reinforcement learning with latent
+|[Training a Resilient Q-network against Observational Interference](https://arxiv.org/pdf/2102.09677.pdf)|Yang et al.|[code](https://github.com/huckiyang/Obs-Causal-Q-Network)|AAAI 2022|
+|[Off-policyevaluation in infinite-horizon reinforcement learning with latent
 confounders](https://arxiv.org/pdf/2007.13893.pdf)|Andrew Bennett et al.|-|AISTATS 2021|
 
 ## Causal Effect Estimation
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-|[Estimating identifiable
-causal effects through double machine learning
+|[Estimating identifiable causal effects through double machine learning
 ](https://ojs.aaai.org/index.php/AAAI/article/view/17438/17245)|Y Jung et al.|-|AAAI 2021|
 |[Towards a learning theory of cause-effect inference](http://proceedings.mlr.press/v37/lopez-paz15.pdf)|Lopez Paz, et al.|-|ICML 2015|
 
