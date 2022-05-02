@@ -28,14 +28,16 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-|[Training a Resilient Q-network against Observational Interference](https://arxiv.org/pdf/2102.09677.pdf)|Yang et al.|[code](https://github.com/huckiyang/Obs-Causal-Q-Network)|AAAI 2022|
+|[Training a Resilient Q-network against Observational Interference](https://arxiv.org/pdf/2102.09677.pdf)|CHH Yang et al.|[code](https://github.com/huckiyang/Obs-Causal-Q-Network)|AAAI 2022|
 |[Off-policyevaluation in infinite-horizon reinforcement learning with latent confounders](https://arxiv.org/pdf/2007.13893.pdf)|Andrew Bennett et al.|-|AISTATS 2021|
 
-## Causal Effect Estimation
+## Treatment Effect Estimation
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
 |[Estimating identifiable causal effects through double machine learning](https://ojs.aaai.org/index.php/AAAI/article/view/17438/17245)|Y Jung et al.|-|AAAI 2021|
+|[Causal effect inference with deep latent-variable models](https://proceedings.neurips.cc/paper/2017/file/94b5bde6de888ddf9cde6748ad2523d1-Paper.pdf)| Louizos, et al.|[code](https://github.com/AMLab-Amsterdam/CEVAE)|NIPS 2017|
+|[Estimating individual treatment effect: generalization bounds and algorithms](http://proceedings.mlr.press/v70/shalit17a/shalit17a.pdf)| Uri Shalit, et al.|[code](https://github.com/clinicalml/cfrnet)|ICML 2017|
 |[Towards a learning theory of cause-effect inference](http://proceedings.mlr.press/v37/lopez-paz15.pdf)|Lopez Paz, et al.|-|ICML 2015|
 
 
@@ -55,7 +57,7 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 
 
 ### Contact
-[C.-H. Huck Yang](https://huckiyang.github.io/), Georgia Tech
+[C.-H. Huck Yang](https://huckiyang.github.io/), Georgia Tech and welcome to all!
 
 2022 May 1st updated. 
 
