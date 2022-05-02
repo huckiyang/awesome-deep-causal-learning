@@ -57,6 +57,8 @@ Welcome to commit and pull request. I will update some guideline on causal softw
 ### Contact
 [C.-H. Huck Yang](https://huckiyang.github.io/), Georgia Tech
 
-2022 May updated. 
+2022 May 1st updated. 
 
 2021 updated. 
+
+2018 updated. 
